@@ -1,0 +1,88 @@
+﻿categoria,quantidade,variavel
+2026-01,256,Data da notificação
+2026-02,822,Data da notificação
+2026-03,1319,Data da notificação
+2026-04,556,Data da notificação
+2026-05,381,Data da notificação
+2026-06,243,Data da notificação
+2026-07,199,Data da notificação
+2026-08,267,Data da notificação
+2026-09,63,Data da notificação
+AM,42,UF de residência
+PE,43,UF de residência
+DF,45,UF de residência
+CE,67,UF de residência
+ES,98,UF de residência
+PR,125,UF de residência
+GO,152,UF de residência
+RS,173,UF de residência
+RN,177,UF de residência
+BA,180,UF de residência
+SC,216,UF de residência
+RO,257,UF de residência
+MG,318,UF de residência
+RJ,530,UF de residência
+SP,1475,UF de residência
+AM,42,UF de notificação
+PE,43,UF de notificação
+DF,55,UF de notificação
+CE,65,UF de notificação
+ES,99,UF de notificação
+PR,127,UF de notificação
+GO,149,UF de notificação
+RS,168,UF de notificação
+RN,175,UF de notificação
+BA,182,UF de notificação
+SC,220,UF de notificação
+RO,259,UF de notificação
+MG,315,UF de notificação
+RJ,533,UF de notificação
+SP,1489,UF de notificação
+1 — Masculino,2623,Sexo
+2 — Feminino,1469,Sexo
+9 — Ignorado,14,Sexo
+9 — Ignorado,1491,Comportamento sexual
+1 — Relações sexuais com homens,1451,Comportamento sexual
+2 — Relações sexuais com mulheres,1041,Comportamento sexual
+3 — Relações sexuais com homens e mulheres,123,Comportamento sexual
+2 — Homem cisgênero,2118,Identidade de gênero
+1 — Mulher cisgênero,1165,Identidade de gênero
+9 — Ignorado,559,Identidade de gênero
+7 — Não se aplica,213,Identidade de gênero
+3 — Mulher transgênero,34,Identidade de gênero
+4 — Homem transgênero,12,Identidade de gênero
+6 — Não binário,4,Identidade de gênero
+5 — Travesti,1,Identidade de gênero
+9 — Ignorado,2076,IST ativa
+2 — Não,1801,IST ativa
+1 — Sim,229,IST ativa
+4 — Não,2704,Imunodeprimido
+9 — Ignorado,1021,Imunodeprimido
+1 — Sim: doença,359,Imunodeprimido
+2 — Sim: medicamento,20,Imunodeprimido
+3 — Sim: causa desconhecida,2,Imunodeprimido
+2 — Não,2373,HIV positivo
+9 — Ignorado,1281,HIV positivo
+1 — Sim,452,HIV positivo
+8 — Desconhecida,2309,Forma provável de transmissão
+Código 0 (sem legenda oficial),895,Forma provável de transmissão
+6 — Transmissão sexual,543,Forma provável de transmissão
+9 — Outra,145,Forma provável de transmissão
+Ausente,99,Forma provável de transmissão
+7 — Material contaminado,73,Forma provável de transmissão
+3 — Associada à assistência à saúde,26,Forma provável de transmissão
+1 — Animal para pessoa,13,Forma provável de transmissão
+2 — Drogas intravenosas / transfusão,2,Forma provável de transmissão
+4 — Transmissão vertical,1,Forma provável de transmissão
+Código 0 (sem legenda oficial),3982,Clado
+Ausente,99,Clado
+2 — CB (Bacia do Congo),18,Clado
+3 — Outro,4,Clado
+1 — WA (África Ocidental),3,Clado
+Código 2 (sem legenda oficial),2853,Classificação final
+Código 5 (sem legenda oficial),580,Classificação final
+1 — Confirmado (laboratorialmente),429,Classificação final
+Código 4 (sem legenda oficial),150,Classificação final
+Código 6 (sem legenda oficial),34,Classificação final
+Código 8 (sem legenda oficial),30,Classificação final
+3 — Provável,30,Classificação final
